@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "58f212b0556201cc21861d1d5e267591"
+build_time: [1532932346, 793180000]
+inputs:
+  "/Users/lylydang/Desktop/Trip_Planner/Pods/GooglePlacesSearchController/Pod/Classes/GooglePlacesSearchController.swift": [1520460230, 0]

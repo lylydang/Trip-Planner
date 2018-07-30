@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "4abe8d6a10c0e0b07a5c10cbe52aa89e"
+build_time: [1532987866, 820098000]
+inputs:
+  "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/TripPlanner/ViewController.swift": [1521612628, 0]
+  "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/TripPlanner/SearchViewController.swift": [1532929460, 0]
+  "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/TripPlanner/AppDelegate.swift": [1532928766, 0]
+  "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/TripPlanner/Weather.swift": [1521191377, 0]
