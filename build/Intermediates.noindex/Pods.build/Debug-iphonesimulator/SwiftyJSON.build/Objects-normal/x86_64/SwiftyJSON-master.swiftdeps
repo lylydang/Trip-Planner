@@ -1,5 +1,5 @@
 version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "f16c9c27f5e69496c79b2b5e3a6ee1ed"
-build_time: [1532933215, 900108000]
+options: "bbcd1b104b5c2deb0668db938c62315d"
+build_time: [1532992285, 790584000]
 inputs:
-  "/Users/lylydang/Desktop/Trip_Planner-master-7/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1520460230, 0]
+  "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1520460230, 0]

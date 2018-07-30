@@ -4,82 +4,82 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/GooglePlacesSearchController/GooglePlacesSearchController.framework/Headers",
+      'name': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/GooglePlacesSearchController/GooglePlacesSearchController.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "GooglePlacesSearchController-Swift.h",
-          'external-contents': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/GooglePlacesSearchController/GooglePlacesSearchController.framework/Headers/GooglePlacesSearchController-Swift.h"
+          'external-contents': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/GooglePlacesSearchController/GooglePlacesSearchController.framework/Headers/GooglePlacesSearchController-Swift.h"
         },
         {
           'type': 'file',
           'name': "GooglePlacesSearchController-umbrella.h",
-          'external-contents': "/Users/lylydang/Desktop/Trip_Planner-master-7/Pods/Target Support Files/GooglePlacesSearchController/GooglePlacesSearchController-umbrella.h"
+          'external-contents': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Pods/Target Support Files/GooglePlacesSearchController/GooglePlacesSearchController-umbrella.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/GooglePlacesSearchController/GooglePlacesSearchController.framework/Modules",
+      'name': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/GooglePlacesSearchController/GooglePlacesSearchController.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GooglePlacesSearchController.build/module.modulemap"
+          'external-contents': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GooglePlacesSearchController.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/Pods_TripPlanner.framework/Headers",
+      'name': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/Pods_TripPlanner.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "Pods-TripPlanner-umbrella.h",
-          'external-contents': "/Users/lylydang/Desktop/Trip_Planner-master-7/Pods/Target Support Files/Pods-TripPlanner/Pods-TripPlanner-umbrella.h"
+          'external-contents': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Pods/Target Support Files/Pods-TripPlanner/Pods-TripPlanner-umbrella.h"
         },
         {
           'type': 'file',
           'name': "Pods_TripPlanner-Swift.h",
-          'external-contents': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/Pods_TripPlanner.framework/Headers/Pods_TripPlanner-Swift.h"
+          'external-contents': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/Pods_TripPlanner.framework/Headers/Pods_TripPlanner-Swift.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/Pods_TripPlanner.framework/Modules",
+      'name': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/Pods_TripPlanner.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-TripPlanner.build/module.modulemap"
+          'external-contents': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-TripPlanner.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'name': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "SwiftyJSON-Swift.h",
-          'external-contents': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+          'external-contents': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
         },
         {
           'type': 'file',
           'name': "SwiftyJSON-umbrella.h",
-          'external-contents': "/Users/lylydang/Desktop/Trip_Planner-master-7/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+          'external-contents': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'name': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/lylydang/Desktop/Trip_Planner-master-7/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+          'external-contents': "/Users/lylydang/Documents/GitHub/Trip_Planner-master-7/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
         }
       ]
     }
